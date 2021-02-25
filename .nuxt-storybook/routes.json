@@ -2,12 +2,14 @@
   {
     "name": "prismic-preview",
     "path": "/preview",
-    "component": "/Users/stefananbeek/Documents/jam/new-nuxt-app/.nuxt-storybook/prismic/pages/preview.vue"
+    "component": "/Users/stefananbeek/Documents/jam/new-nuxt-app/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_047ed963"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/stefananbeek/Documents/jam/new-nuxt-app/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_d1161d24"
   }
 ]
