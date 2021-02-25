@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "slicemachine": "start-slicemachine --port 443",
+    "slicemachine": "start-slicemachine --port 9999",
     "storybook": "nuxt storybook",
     "build-storybook": "nuxt storybook build"
   },
