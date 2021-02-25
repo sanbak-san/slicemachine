@@ -1,0 +1,27 @@
+{
+  "id": "quote_text",
+  "type": "SharedSlice",
+  "name": "QuoteText",
+  "description": "QuoteText",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "QuoteText",
+      "primary": {
+        "quoteText": {
+          "config": {
+            "label": "",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

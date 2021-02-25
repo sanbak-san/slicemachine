@@ -1,0 +1,7 @@
+export { default as BannerSlice } from './BannerSlice'
+export { default as FullWidthImage } from './FullWidthImage'
+export { default as ImageGallery } from './ImageGallery'
+export { default as FeaturedImage } from './FeaturedImage'
+export { default as FeaturedImage } from './FeaturedImage'
+export { default as QuoteText } from './QuoteText'
+export { default as ContentText } from './ContentText'
